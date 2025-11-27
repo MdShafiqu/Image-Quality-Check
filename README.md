@@ -1,1 +1,1 @@
-# Image-Quality-Check
+# Image Quality Check
